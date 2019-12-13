@@ -16,6 +16,8 @@
 
 答：应用中心下载yy手游(android)或者piko(ios)微信登录搜索房间77324524/m701377
 
+安卓下载链接: https://orange-sea-9788.joe1280.workers.dev/2019/12/13/gamevoice_client-6.3.0-guanwang.apk
+苹果下载 apple store 搜索piko
 问题4 平台是否收费
 
 答：免费,不收任何费用
